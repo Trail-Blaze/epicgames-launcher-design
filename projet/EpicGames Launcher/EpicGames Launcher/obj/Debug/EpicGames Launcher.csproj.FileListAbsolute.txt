@@ -1,0 +1,18 @@
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\EpicGames Launcher.exe.config
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\EpicGames Launcher.exe
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\EpicGames Launcher.pdb
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.csprojAssemblyReference.cache
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.Form1.resources
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.Properties.Resources.resources
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.csproj.GenerateResource.cache
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.csproj.CoreCompileInputs.cache
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.exe
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.pdb
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\theme.dll
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames Launcher.csproj.CopyComplete
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.formlogin.forgot.resources
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.formlogin.register.resources
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\bin\Debug\Guna.UI2.dll
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.login.resources
+D:\Fichier\Development\Projet VS\Csharp\C\EpicGames Launcher\projet\EpicGames Launcher\EpicGames Launcher\obj\Debug\EpicGames_Launcher.formlogin.opco.resources
